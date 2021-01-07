@@ -1,5 +1,5 @@
-#ifndef HD4470_HAL
-#define HD4470_HAL
+#ifndef HD4470
+#define HD4470
 
 #include "mbed.h"
 #include "platform/Stream.h"
